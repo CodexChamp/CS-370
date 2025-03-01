@@ -18,5 +18,5 @@ As a computer scientist, I feel like part of the job is making sure AI is fair, 
 Especially in fields like healthcare or finance, AI making the wrong call could have serious consequences, so it’s important to think about who is affected by these decisions and how to minimize harm.
 
 Final Thoughts
-This project was a fun way to get hands-on experience with reinforcement learning and neural networks. It also made me realize that computer science isn’t just about coding—it’s about solving problems efficiently
-and responsibly.
+This project was a fun way to get hands-on experience with reinforcement learning and neural networks. It also made me realize that computer science engineers have a lot of control over the worlds views and ethics.
+Like with great power comes great responsiblitiy.
